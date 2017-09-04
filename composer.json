@@ -1,0 +1,15 @@
+{
+    "name": "karimsan/phpunit-codility-template",
+    "description": "Phpunit template for codility tasks",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^6.3",
+        "php": ">=7.1.0"
+    },
+    "authors": [
+        {
+            "name": "Karim Sakhibgareev",
+            "email": "gkarims@gmail.com"
+        }
+    ]
+}
